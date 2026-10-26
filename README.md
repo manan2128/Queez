@@ -21,7 +21,7 @@ An interactive, browser-based quiz application built using HTML, CSS, and JavaSc
 ## Project Structure
 
 ```text
-Queez-25BOCN1092/
+Queez-25BCON1092/
 ├── index.html
 ├── style.css
 ├── script.js
@@ -39,13 +39,13 @@ You only need a modern web browser, such as Google Chrome, Microsoft Edge, or Fi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/HARSH1-rgb/Queez-25BOCN1092.git
+   git clone https://github.com/HARSH1-rgb/Queez-25BCON1092.git
    ```
 
 2. Open the project folder:
 
    ```bash
-   cd Queez-25BOCN1092
+   cd Queez-25BCON1092
    ```
 
 3. Open `index.html` in your web browser.
@@ -91,4 +91,4 @@ This project is intended for educational and learning purposes. No specific open
 ---
 
 **Author:** Harsh  
-**Repository:** [Queez-25BOCN1092](https://github.com/HARSH1-rgb/Queez-25BOCN1092)
+**Repository:** [Queez-25BOCN1092](https://github.com/HARSH1-rgb/Queez-25BCON1092)
